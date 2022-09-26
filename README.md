@@ -1,8 +1,8 @@
-##Technical-Discussion
+# Technical-Discussion
 this a demo
 
-##Example 
+## Example 
 
-*one
-*two
-*three 
+* one
+* two
+* three 
